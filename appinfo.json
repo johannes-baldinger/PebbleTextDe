@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "johannes.baldinger@googlemail.",
+    "longName": "Text Deutsch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Text DE",
+    "uuid": "0939cb39-d545-4fd1-a77c-e4732e71f6e4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
