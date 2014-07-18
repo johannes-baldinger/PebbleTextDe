@@ -7,7 +7,14 @@
     "longName": "Text Deutsch",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/Watch1.png",
+                "menuIcon": true,
+                "name": "RESSOURCE_IMG",
+                "type": "png"
+            }
+        ]
     },
     "shortName": "Text DE",
     "uuid": "0939cb39-d545-4fd1-a77c-e4732e71f6e4",
